@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/bima77993-bit/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/bima77993-bit/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A 4 KB Python chess engine: a forced mate book found by trap-beam search against the house gauntlet, with a small fixed-depth alpha-beta fallback for lines the book does not cover. Practice trial-0: 6/6 checkmate, 151 plies, spare 1049.
+A 4 KB Python chess engine: a forced mate book found by trap-beam search against the house gauntlet, with a small fixed-depth alpha-beta fallback for lines the book does not cover. Practice trial-0: 6/6 checkmate, 149 plies, spare 1051.
 
 ## Run it
 
